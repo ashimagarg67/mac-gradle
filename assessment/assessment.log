@@ -1,0 +1,15 @@
+2024-04-03 09:45:42: *****************************************************************************
+2024-04-03 09:45:42: *                     Started SBOM Collection                               *
+2024-04-03 09:45:42: *****************************************************************************
+2024-04-03 09:45:43: Executing command: cd /Users/neerajs1/Desktop/direct_daedulus/mac-gradle-01
+2024-04-03 09:58:37: *****************************************************************************
+2024-04-03 09:58:37: *                     Started SBOM Collection                               *
+2024-04-03 09:58:37: *****************************************************************************
+2024-04-03 09:58:38: Executing command: cd /Users/neerajs1/Desktop/direct_daedulus/mac-gradle-01
+2024-04-03 09:58:39: Executing command: ./gradlew -I /Users/neerajs1/Desktop/direct_daedulus/mac-gradle-01/assessment/init.gradle cyclonedxBom -PbomOutputDir=/Users/neerajs1/Desktop/direct_daedulus/mac-gradle-01/assessment/sbom
+> Task :cyclonedxBom
+
+BUILD SUCCESSFUL in 11s
+1 actionable task: 1 executed
+2024-04-03 09:58:52: Executing command: rm -rf /Users/neerajs1/Desktop/direct_daedulus/mac-gradle-01/assessment/init.gradle
+2024-04-03 09:58:54: Executing command: rm -rf /Users/neerajs1/Desktop/direct_daedulus/mac-gradle-01/assessment/sbom
